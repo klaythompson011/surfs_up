@@ -32,6 +32,7 @@ The summary statistics show minor differences in temperature between the month o
 further enhanced by including precipitation by month. To do so, the existing query can be updated to include column “prcp”.  
 
 ![surfs_up](Resources/Image4.png)
+
 ![surfs_up](Resources/Image5.png)
 
 
