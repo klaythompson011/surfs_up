@@ -19,8 +19,12 @@ Based on summary statistics, below are key differences in weather between June a
 
 ###
 •	Average Temperature: Average temperature in June is approximately 75 degrees as compared to 71 degrees in December. 
+
 •	Minimum Temperature: Minimum temperature in June is 64 degrees as compared to 56 degrees in December. 
+
 •	Maximum Temperature: Maximum temperature in June is 85 degrees as compared to 83 degrees in December.
+
+Tables below show results for the month of June and December, respectively. 
 
 ![surfs_up](Resources/Image2.png) ![surfs_up](Resources/Image3.png)
 
